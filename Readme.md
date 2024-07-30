@@ -1,9 +1,9 @@
-## My Profile
+# My Profile👩‍💻👩‍🎓
 
 ## Hi there 👋
 
-### I am Garima chandra,a computer science engineering student in IGDTUW.I am passionate about open-source contribution.
-### Tech stacks learned- Frontend Web Devlopment,Python,Java,MongoDB(Database),SQL and Node.js
+### I am Garima chandra,a computer science engineering student in IGDTUW.I am passionate about open-source contribution.❤️
+### 💻 Tech stacks learned- Frontend Web Devlopment,Python,Java,MongoDB(Database),SQL and Node.js
 ### My contributions and consistency have led me to win all these badges.
 
 ## GSSOC(24) Badges 🪶
