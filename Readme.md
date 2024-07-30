@@ -1,8 +1,8 @@
-<h2 style='align-items:center';align='center'> My Profile👩‍💻👩‍🎓</h2>
+<h2 style="text-align:center;"> My Profile👩‍💻👩‍🎓</h2>
 
 ## Hi there 👋
 
-### I am Garima chandra,a computer science engineering student in IGDTUW.I am passionate about open-source contribution.❤️
+### I am Garima Chandra,a computer science engineering student in IGDTUW.I am passionate about open-source contribution.❤️
 ### 💻 Tech stacks learned- Frontend Web Devlopment,Python,Java,MongoDB(Database),SQL and Node.js
 ### My contributions and consistency have led me to win all these badges.
 
