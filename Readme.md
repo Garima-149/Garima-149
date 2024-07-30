@@ -3,7 +3,7 @@
 ## Hi there 👋
 <ul style='list-style-type:none;'>
 <li>❤️ I am Garima Chandra,a computer science engineering student in IGDTUW.I am passionate about open-source contribution</li>
-<li>🦈 Learning AI and ML Algorithms/li>
+<li>🦈 Learning AI and ML Algorithms</li>
 <li>👨‍💻 Web devloper</li>
 <li>☘️ trying to get more confidence in DSA</li>
 </ul>
