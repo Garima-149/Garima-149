@@ -1,4 +1,4 @@
-# My Profile👩‍💻👩‍🎓
+<h2 style='align-items:center';align='center'> My Profile👩‍💻👩‍🎓</h2>
 
 ## Hi there 👋
 
