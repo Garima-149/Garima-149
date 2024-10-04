@@ -29,16 +29,17 @@
 
 
 - My contributions and consistency have led me to win all these badges.💪
+![Share Badge (6)](https://github.com/user-attachments/assets/ee21604c-5d7b-41ab-ab72-53d2cfdbc149)
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+<img src="" width="100px" height="100px" />
+  <img src="" width="100px" height="100px" />
+  <img src="" width="100px" height="100px" />
+  <img src="" width="100px" height="100px" />
+  <img src="" width="100px" height="100px" />
+  <img src="" width="100px" height="100px" />
+  <img src="" width="105px" height="105px" />
   
 </div>
 
