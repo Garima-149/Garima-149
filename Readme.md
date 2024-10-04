@@ -30,15 +30,17 @@
 
 - My contributions and consistency have led me to win all these badges.💪
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges 🪶            
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="![Share Badge (6)](https://github.com/user-attachments/assets/365e882e-592e-411e-b03a-68f5a31b5cc8)" width="100px" height="100px" />
-  <img src="" width="100px" height="100px" />
-  <img src="" width="100px" height="100px" />
-  <img src="" width="100px" height="100px" />
-  <img src="" width="100px" height="100px" />
-  <img src="" width="100px" height="100px" />
-  <img src="" width="105px" height="105px" />
-  
+![Share Badge (6)](https://github.com/user-attachments/assets/365e882e-592e-411e-b03a-68f5a31b5cc8)
+![Share Badge (3)](https://github.com/user-attachments/assets/3c2e19ee-0eb0-4298-b3b4-199f41ff2794)
+![Share Badge (4)](https://github.com/user-attachments/assets/1f69ce91-d908-4018-9565-b075787f653e)
+![Share Badge (5)](https://github.com/user-attachments/assets/62062e73-78bb-49e6-b53e-2742b1f35c57)
+![Share Badge (1)](https://github.com/user-attachments/assets/cfac35cb-6a27-422d-900c-181a7d768ebf)
+![Share Badge (2)](https://github.com/user-attachments/assets/d244d460-a387-450f-bd9b-83cd660781b3)
+![Share Badge](https://github.com/user-attachments/assets/7860dd45-7f92-4542-a4df-f8770a7eca52)
+
+
 </div>
+
 
