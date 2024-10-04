@@ -31,7 +31,7 @@
 - My contributions and consistency have led me to win all these badges.💪
 
 ## GSSOC(24) Badges 🪶            
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
 ![Share Badge (6)](https://github.com/user-attachments/assets/365e882e-592e-411e-b03a-68f5a31b5cc8)
 ![Share Badge (3)](https://github.com/user-attachments/assets/3c2e19ee-0eb0-4298-b3b4-199f41ff2794)
 ![Share Badge (4)](https://github.com/user-attachments/assets/1f69ce91-d908-4018-9565-b075787f653e)
@@ -41,6 +41,6 @@
 ![Share Badge](https://github.com/user-attachments/assets/7860dd45-7f92-4542-a4df-f8770a7eca52)
 
 
-</div>
+
 
 
